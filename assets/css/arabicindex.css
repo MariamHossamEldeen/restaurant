@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Harmattan&display=swap');
+body,p,span,a,div,input,textarea{
+    font-family: 'Changa', sans-serif !important;
+}
+
+
+h1,h2,h3,h4,h5,h6,li,button{
+    font-family: 'Harmattan', sans-serif !important;
+}
+
+@media(max-width:980px){
+.headerCollapse{
+    margin-left: 78% !important; 
+}
+}

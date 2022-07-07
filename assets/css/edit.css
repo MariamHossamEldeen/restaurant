@@ -1,0 +1,185 @@
+:root{
+    --green:rgb(64 144 22);
+    --red:#bc1f26;
+}
+#hero{
+background: url("../img/10.jpg") top center;
+}
+.about{
+background: url(../img/bg2.jpg) center center no-repeat;
+/* background: none !important; */
+background-repeat: no-repeat !important;
+background-size: contain !important;
+}
+.events{
+background: url(../img/bg2.jpg) center center no-repeat;
+background-size: contain !important;
+}
+.chefs .member{
+    background: none !important;
+}
+
+/* Change Styling */
+
+/* body{
+    background-color: white;
+}
+a,h1, h2,  h5, h6{
+    color: var(--red) !important;
+}
+#hero h1,h3, h4,
+span,p{
+    color: var(--green) !important ;
+}
+
+#hero h1 span,li,i{
+    color: var(--red) !important;
+}
+.about::before{
+    background-color:  rgb(0 0 0 / 0.21) !important;
+}
+#header {
+    background: rgb(12 11 9 / 25%);
+    border-bottom: 1px solid rgb(12 11 9 / 0%) 
+}
+.why-us .box{
+    background-color: white;
+}
+.why-us .box:hover{
+    background-color: #1987543b;
+}
+
+#header
+{
+    background-color:rgb(0 0 0 / 26%) !important;
+}
+
+#hero .play-btn{
+
+    background:#bc1f273d ;
+}
+.credits{
+    color: var(--red) !important;
+}
+a:hover{
+    background-color: var(--green) !important;
+}
+
+#hero .btn-menu, #hero .btn-book{
+    background-color:rgba(65, 144, 22, 0.347) !important;
+    border: rgba(65, 144, 22, 0.347) !important;
+}
+#hero .play-btn:hover{
+    background-color: rgba(65, 144, 22, 0.347) !important;
+}
+
+#footer,
+#footer .footer-top,
+#footer .footer-top .social-links a,
+#footer .footer-top .footer-newsletter form input[type=email],
+#footer .footer-top .footer-newsletter form{
+    background-color: white !important;
+}
+
+.back-to-top{
+    border: none !important;
+}
+.back-to-top:hover{
+    
+    background-color: rgb(64 144 22 / 28%) !important;
+
+}
+
+#footer .footer-top .footer-newsletter form input[type=submit],
+.contact .php-email-form button[type=submit]{
+    background-color: rgba(65, 144, 22, 0.363) !important;
+
+}
+.contact .info i,
+.contact .php-email-form input, .contact .php-email-form textarea,
+.section-bg,
+.testimonials .testimonial-item p{
+    background-color: white;
+}
+
+.testimonials .swiper-pagination .swiper-pagination-bullet,
+.book-a-table .php-email-form button[type=submit],
+.book-a-table .php-email-form button[type=submit]:hover,
+.events .swiper-pagination .swiper-pagination-bullet 
+    {
+    background-color: rgba(65, 144, 22, 0.451);
+}
+
+.testimonials .swiper-pagination .swiper-pagination-bullet-active,
+.events .swiper-pagination .swiper-pagination-bullet-active{
+    background-color: #bc1f2685;
+}
+
+.book-a-table .php-email-form input, .book-a-table .php-email-form textarea{
+    background-color: white;
+}
+
+
+.events::before{
+    background-color: #f8f9faa6;
+}
+
+.specials .nav-link.active {
+background-color: #bc1f2761;
+color: white !important;
+
+}
+
+.menu .menu-ingredients,p{
+    color: rgba(0, 0, 0, 0.428) !important;
+}
+
+.menu .menu-content span{
+    background-color: transparent !important;
+}
+
+.menu .menu-content a{
+    background-color: transparent !important;
+}
+a:hover{
+    background-color: transparent !important;
+}
+
+h2,a{
+    color: white !important;
+}
+li{
+    color: var(--red) !important;
+}
+.aColor{
+    color: rgba(0, 0, 0, 0.428) !important;
+}
+.designed{
+    color: var(--red) !important;
+}
+#footer .footer-top
+{
+    border-top:1px solid #37332a5e !important;
+}
+
+
+#footer .footer-top{
+    border-bottom: 1px solid #37332a5e !important;
+}
+
+#footer .footer-top .footer-newsletter form{
+    border: 1px solid #37332a5e !important;
+}
+.contact .php-email-form input, .contact .php-email-form textarea{
+    border: 1px solid #37332a5e !important;
+
+}
+
+.redTabs{
+    color: var(--red) !important;
+}
+
+.book-a-table-btn{
+    border-color: var(--green);
+}
+ */
